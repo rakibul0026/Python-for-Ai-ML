@@ -1,0 +1,21 @@
+,Unnamed: 0.3,Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,StudentID,FullName,Data Structure Marks,Algorithm Marks,Python Marks,CompletionStatus,EnrollmentDate,Instructor,Location,Country,University,Total Mark,DSA GPA,DSA PASS,pass in Python,Last name
+0,0,0,0,0,PH1001,Alif Rahman,85.0,85.0,88.0,Completed,2024-01-15,Mr. Karim,Dhaka,Bangladesh,CSTU,258.0,A,Pass,Fail,Alif
+1,1,1,1,1,PH1002,Fatima Akhter,92.0,92.0,,In Progress,2024-01-20,Ms. Salma,Chattogram,Bangladesh,CSTU,,A+,Pass,Fail,Fatima
+2,2,2,2,2,PH1003,Imran Hossain,88.0,88.0,85.0,Completed,2024-02-10,Mr. Karim,Dhaka,Bangladesh,CSTU,261.0,A,Pass,Fail,Imran
+3,3,3,3,3,PH1004,Jannatul Ferdous,78.0,78.0,82.0,Completed,2024-02-12,Ms. Salma,Sylhet,Bangladesh,CSTU,238.0,A,Pass,Fail,Jannatul
+4,4,4,4,4,PH1005,Kamal Uddin,,,95.0,In Progress,2024-03-05,Mr. Karim,Chattogram,Bangladesh,CSTU,,A,Pass,Fail,Kamal
+5,5,5,5,5,PH1006,Laila Begum,75.0,75.0,78.0,Completed,2024-03-08,Ms. Salma,Rajshahi,Bangladesh,CSTU,228.0,A,Pass,Pass,Laila
+6,6,6,6,6,PH1007,Mahmudul Hasan,80.0,80.0,,In Progress,2024-04-01,Mr. Karim,Dhaka,Bangladesh,CSTU,,A,Pass,Fail,Mahmudul
+7,7,7,7,7,PH1008,Nadia Islam,81.0,81.0,85.0,Completed,2024-04-22,Ms. Salma,Chattogram,Bangladesh,CSTU,247.0,A,Pass,Fail,Nadia
+8,8,8,8,8,PH1009,Omar Faruq,72.0,72.0,76.0,Completed,2024-05-16,Mr. David,Dhaka,Bangladesh,CSTU,220.0,A,Pass,Pass,Omar
+9,9,9,9,9,PH1010,Priya Sharma,89.0,89.0,88.0,Completed,2024-05-20,Ms. Salma,Sylhet,Bangladesh,CSTU,266.0,A,Pass,Fail,Priya
+10,10,10,10,10,PH1011,Rahim Sheikh,,,91.0,In Progress,2024-06-11,Mr. Karim,Khulna,Bangladesh,CSTU,,A,Pass,Fail,Rahim
+11,11,11,11,11,PH1012,Sadia Chowdhury,85.0,85.0,87.0,Completed,2024-06-14,Ms. Salma,Chattogram,Bangladesh,CSTU,257.0,A,Pass,Fail,Sadia
+12,12,12,12,12,PH1013,Tanvir Ahmed,75.0,75.0,79.0,Completed,2024-07-02,Mr. David,Dhaka,Bangladesh,CSTU,229.0,A,Pass,Pass,Tanvir
+13,13,13,13,13,PH1014,Urmi Akter,,,,Not Started,2024-07-09,Ms. Salma,Rajshahi,Bangladesh,CSTU,,A,Pass,Fail,Urmi
+14,14,14,14,14,PH1015,Wahiduzzaman,86.0,86.0,84.0,Completed,2024-08-18,Mr. Karim,Dhaka,Bangladesh,CSTU,256.0,A,Pass,Fail,Wahiduzzaman
+15,15,15,15,15,PH1016,Ziaur Rahman,94.0,94.0,,In Progress,2024-08-21,Ms. Salma,Chattogram,Bangladesh,CSTU,,A+,Pass,Fail,Ziaur
+16,16,16,16,16,PH1017,Afsana Mimi,90.0,90.0,93.0,Completed,2025-09-01,Mr. Karim,Dhaka,Bangladesh,CSTU,273.0,A,Pass,Fail,Afsana
+17,17,17,17,17,PH1018,Babul Ahmed,88.0,88.0,85.0,Completed,2025-09-05,Ms. Salma,Sylhet,Bangladesh,CSTU,261.0,A,Pass,Fail,Babul
+18,18,18,18,18,PH1019,Faria Rahman,,,,Not Started,2025-09-15,Mr. David,Chattogram,Bangladesh,CSTU,,A,Pass,Fail,Faria
+19,19,19,19,19,PH1020,Nasir Khan,86.0,86.0,89.0,Completed,2025-10-02,Ms. Salma,Dhaka,Bangladesh,CSTU,261.0,A,Pass,Fail,Nasir
